@@ -5,3 +5,4 @@ node_modules
 .agents
 .windsurf
 .env
+skills-lock.json
